@@ -1,0 +1,7 @@
+## Application specific 
+Flask
+gunicorn
+requests
+## Data Science libraries
+pillow
+numpy
